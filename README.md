@@ -1,7 +1,7 @@
 # CS50P-Final-Project
 ## CLI Hangman Game
 
-#### Video Demo: (https://www.youtube.com/watch?v=g2wxbzvFL-A)
+
 
 #### Description:
 This project is a non-graphical command-line-based Hangman game with integrated features such as a word database and a scoring system. The game allows users to guess letters of a randomly selected word within a limited number of attempts, just like the traditional Hangman game. Key features of the game include:
